@@ -1,53 +1,43 @@
-# 👋 Hello, I'm Abhijith MR
+# Hi there, I'm Abhijith M.R 👋
 
-🛡️ Cybersecurity Enthusiast | 🛠️ Tool Developer | 🌐 Web Developer  
-I'm a passionate BSc Cyber Security student skilled in building custom tools, scripts, and automation for ethical hacking, along with strong Linux Shell Scripting capabilities. I also enjoy creating functional, responsive web interfaces using HTML, CSS, and JavaScript.
-
----
-
-### 🧰 Specializations
-
-- 🔐 **Cybersecurity**: Ethical Hacking, Penetration Testing, Vulnerability Scanning, Kali Linux
-- ⚙️ **Tool Development**: Custom Bash/Shell scripts, TypeScript-based security utilities
-- 🖥️ **Web Development** (Secondary): HTML, CSS, JS, Vercel
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/abhijithmr226)  
+[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/abhijithmr226)  
 
 ---
 
-### 🔧 Featured Projects
+## 🚀 About Me
 
-- 🔑 [secure-encrypter-decrypter](https://github.com/abhijithmr226/secure-encrypter-decrypter) – A secure tool to encrypt and decrypt text using TypeScript.
-- 🔍 [Passmatic](https://github.com/abhijithmr226/Passmatic) – Generates strong and secure passwords.
-- 💻 [freed-h](https://github.com/abhijithmr226/freed-h) – JavaScript-based ethical hacking project.
-- 🧮 [Easy-Calc](https://github.com/abhijithmr226/Easy-Calc) – Lightweight calculator built in TypeScript.
+I'm a passionate **Web Developer** and **Cybersecurity Student** with experience in building modern, responsive websites and tools. I love exploring new technologies, coding clean and efficient solutions, and continuously learning.
 
----
-
-### 🧑‍💻 Tools & Technologies
-
-| Domain             | Tools & Skills                                             |
-|--------------------|------------------------------------------------------------|
-| 🔐 Cybersecurity    | Kali Linux, Nmap, Wireshark, Burp Suite, Metasploit       |
-| ⚙️ Scripting        | Bash, Shell Scripting, Node.js, TypeScript                |
-| 🌐 Web Development | HTML, CSS, JavaScript, Vercel, VS Code                     |
-| 📊 Monitoring      | Git, GitHub, GitHub Actions                                |
+- 🔭 Currently working on **ReconX** — an advanced reconnaissance tool.
+- 🌱 Learning more about **Ethical Hacking, Linux Scripting,** and **Penetration Testing**.
+- 💬 Ask me about **Python, Web Development, and Cybersecurity**.
+- ⚡ Fun fact: I'm a huge fan of modern UI/UX with dark mode themes and smooth animations.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Technologies & Tools
 
-![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijithmr226&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithmr226&layout=compact&theme=tokyonight)
-
----
-
-### 📬 Connect with Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/abhijithmr226)  
-- 📸 [Instagram](https://instagram.com/abhiz.me)  
-- 🌍 [Portfolio](https://abhijithmrvercel.app)  
-- 📧 Email: abhijhithmr226@gmail.com  
-- 🐧 GitHub: [@abhijithmr226](https://github.com/abhijithmr226)
+| Frontend           | Backend           | Tools & Platforms      |
+|--------------------|-------------------|-----------------------|
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) |
+| ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg) | ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) |
 
 ---
 
-_“Stay curious, stay secure.”_
+## 📈 GitHub Stats
+
+![Abhijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijithmr226&show_icons=true&theme=radical&hide_border=true)
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/abhijithmr226)  
+Email: [abhijithmr226@gmail.com](mailto:abhijithmr226@gmail.com)
+
+---
+
+*Made with ❤️ by Abhijith M.R*
+
