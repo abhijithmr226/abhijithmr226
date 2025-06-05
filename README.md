@@ -24,13 +24,6 @@ Cybersecurity student and aspiring Ethical Hacker with a background in web devel
 
 ---
 
-## Education
-
-- **Bachelor of Science in Cyber Security**  
-  [Your University Name] — [Year of Graduation or Expected Graduation]
-
----
-
 ## Projects
 
 - **ReconX** — Advanced reconnaissance tool written in Python for penetration testing and security audits.
