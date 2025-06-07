@@ -1,27 +1,31 @@
-## 👋 Hi, I'm Abhijith MR
+# 👋 Hi, I'm Abhijith MR
 
-Cybersecurity enthusiast & developer focused on building secure, modern applications.  
+**Cybersecurity enthusiast & developer focused on building secure, modern applications.**  
 Open to collaboration, CTFs, and security research.
+
+---
 
 ### ☕ Support Me
 
 If you like my work, please consider buying me a coffee! Your support helps me keep creating and sharing cool projects.
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?logo=buy-me-a-coffee&logoColor=white&style=flat)](https://www.buymeacoffee.com/abhijithmr226)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge)](https://www.buymeacoffee.com/abhijithmr226)
 
 ---
 
 ## 🛠️ Skills
 
-![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white&style=flat)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-333333?logo=linux&logoColor=white&style=for-the-badge" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+</p>
 
 ---
 
@@ -35,7 +39,9 @@ If you like my work, please consider buying me a coffee! Your support helps me k
 
 ## 📊 GitHub Stats
 
-![Abhijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijithmr226&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijithmr226&show_icons=true&theme=dark&hide_title=true&count_private=true&include_all_commits=true" alt="Abhijith's GitHub stats" />
+</p>
 
 ---
 
@@ -64,13 +70,11 @@ If you like my work, please consider buying me a coffee! Your support helps me k
 
 ---
 
-### References & Resources for Badges and Stats
+### References & Resources
 
-- Customize Shields.io badges: [https://shields.io](https://shields.io)  
-- GitHub stats setup guide: [SitePoint GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)  
-- More badge collections & templates:  
-  - [md-badges](https://github.com/inttter/md-badges)  
-  - [Best README Template](https://github.com/othneildrew/Best-README-Template)  
-  - [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)  
-  - [Shields README](https://github.com/badges/shields/blob/master/README.md)
-
+- [Shields.io](https://shields.io) — Customize badges  
+- [SitePoint GitHub Profile README Guide](https://www.sitepoint.com/github-profile-readme/)  
+- [md-badges Collection](https://github.com/inttter/md-badges)  
+- [Best README Template](https://github.com/othneildrew/Best-README-Template)  
+- [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)  
+- [Shields README](https://github.com/badges/shields/blob/master/README.md)
