@@ -67,14 +67,4 @@ If you like my work, please consider buying me a coffee! Your support helps me k
 ---
 
 **Feel free to connect, collaborate, or reach out!**
-
 ---
-
-### References & Resources
-
-- [Shields.io](https://shields.io) — Customize badges  
-- [SitePoint GitHub Profile README Guide](https://www.sitepoint.com/github-profile-readme/)  
-- [md-badges Collection](https://github.com/inttter/md-badges)  
-- [Best README Template](https://github.com/othneildrew/Best-README-Template)  
-- [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)  
-- [Shields README](https://github.com/badges/shields/blob/master/README.md)
