@@ -2,6 +2,11 @@
 
 **Cybersecurity enthusiast & developer focused on building secure, modern applications.**  
 Open to collaboration, CTFs, and security research.
+<p align="center">
+  <a href="http://www.abhijithmr.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-My%20Website-1f1f1f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Website"/>
+  </a>
+</p>
 
 ---
 
