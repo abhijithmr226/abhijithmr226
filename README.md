@@ -77,7 +77,7 @@ I'm a passionate cybersecurity researcher and developer focused on building secu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhijithmr226&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true" alt="Abhijith's GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=abhijithmr226&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithmr226&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
