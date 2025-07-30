@@ -14,9 +14,7 @@ I'm a passionate cybersecurity researcher and developer focused on building secu
   <a href="https://www.linkedin.com/in/abhijithmr226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-abhijithmr226-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/abhiz.me" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@abhiz.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+
 </p>
 
 ---
