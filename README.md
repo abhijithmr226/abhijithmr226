@@ -103,7 +103,6 @@ If you enjoy my work or found something useful, consider buying me a coffee!
 | 📧 Email | [abhijithmr226@gmail.com](mailto:abhijithmr226@gmail.com) |
 | 🔗 LinkedIn | [linkedin.com/in/abhijithmr226](https://linkedin.com/in/abhijithmr226) |
 | 📸 Instagram | [@abhiz.me](https://instagram.com/abhiz.me) |
-| 🐙 GitHub | [@abhijithmr226](https://github.com/abhijithmr226) |
 
 ---
 
