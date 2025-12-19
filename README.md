@@ -1,109 +1,102 @@
-# 👋 Hi, I'm Abhijith MR
-
-### 🛡️ Cybersecurity Enthusiast | 🧠 CTF Player | 💻 Developer
-
-I'm a passionate cybersecurity researcher and developer focused on building secure, scalable, and modern applications. Whether it's solving Capture The Flags, building web apps, or researching vulnerabilities — I'm always learning and sharing.
+# 🛡️ Abhijith M R  
+### Scam Slayer | Cyber Security Enthusiast | Truth Extractor  
+**Hunting Lies. Killing Fraud. Securing the Digital World.**
 
 <p align="center">
-  <a href="https://www.abhijithmr.me/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐-My%20Website-1f1f1f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://www.abhijithmr.me">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
   </a>
-  <a href="https://github.com/abhijithmr226" target="_blank">
-    <img src="https://img.shields.io/github/followers/abhijithmr226?label=GitHub&logo=github&style=for-the-badge" alt="GitHub" />
+  <a href="https://linkedin.com/in/abhijithmr226">
+    <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/abhijithmr226/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-abhijithmr226-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="mailto:abhijithmr226@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-</p>
-
----
-
-## 🧩 About Me
-
-- 🎯 Focus: Cybersecurity, Full-Stack Development, DevSecOps
-- 🔍 Exploring: Threat Intelligence, Web Exploitation, AI Security
-- 🛠️ Tech Stack: JavaScript, Python, Node.js, React, Docker, MongoDB
-- 🧠 Favorite Quote:  
-  > “Security is not a product, but a process.” – Bruce Schneier
-
----
-
-## 💻 My Tech Toolbox
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-218b21?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
-
----
-
-## 🚀 Projects Showcase
-
-| Project Name | Description |
-|--------------|-------------|
-| 🔐 [Safe Encrypter/Decrypter](#) | Secure tool for encrypting & decrypting text/files using AES. |
-| 📟 [Advanced Calculator](#) | Responsive calculator for scientific & logic-based operations. |
-| 🔑 [Passmatic](#) | Password manager with secure vault and random password generator. |
-| 🧠 [Amrai AI Bot](#) | Smart assistant focused on info retrieval, themed in purple/black. |
-| 🎮 [2D Catch Game](#) | A multiplayer ball-catching game with scoring and animations. |
-
-> 🌐 More projects on my [GitHub Repos](https://github.com/abhijithmr226?tab=repositories)
-
----
-
-## 🏆 Certifications
-
-- ✅ Cisco Certified Support Technician (CCST)
-- ✅ CompTIA Security+ (SY0-601)
-- ✅ Ethical Hacking Associate – EC-Council
-- ✅ ServiceNow IT Leadership Professional Certificate
-- ✅ Adobe Certified – Photoshop Essentials
-
----
-
-## 📊 GitHub Stats
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=abhijithmr226&show_icons=true&theme=radical&count_private=true" />
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijithmr226&bg_color=1f1f1f&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true" />
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithmr226&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
----
-
-## ☕ Support Me
-
-If you enjoy my work or found something useful, consider buying me a coffee!
-
-<p>
-  <a href="https://www.buymeacoffee.com/abhijithmr226" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge" />
+  <a href="https://github.com/abhijithmr226">
+    <img src="https://img.shields.io/badge/💻 GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🧠 About Me
 
-| Platform   | Link |
-|------------|------|
-| 🌐 Website | [abhijithmr.me](https://www.abhijithmr.me) |
-| 📧 Email | [abhijithmr226@gmail.com](mailto:abhijithmr226@gmail.com) |
-| 🔗 LinkedIn | [linkedin.com/in/abhijithmr226](https://linkedin.com/in/abhijithmr226) |
-| 📸 Instagram | [@abhiz.me](https://instagram.com/abhiz.me) |
+🔐 Cyber Security student passionate about **fraud detection, threat analysis, digital investigations, and privacy protection**.  
+💡 I build tools that **defend users, expose scams, and automate security workflows**.  
+🚨 Strong interest in **SOC, cybercrime investigations, OSINT, and anti-fraud systems**.
+
+> _“Security isn’t optional — it’s survival.”_
 
 ---
 
-_Thanks for stopping by! Let's make the digital world more secure together!_ 🔐✨
+## 🚀 Featured Projects
+
+| 🚀 Project | 📝 What It Does |
+|-----------|----------------|
+| 🔐 **Safe Encrypter / Decrypter** | AES-based secure text & file encryption tool |
+| 🔑 **Passmatic** | Password manager with secure vault & generator |
+| 📟 **Advanced Calculator** | Scientific + logic-based responsive calculator |
+| 🧠 **Amrai AI Bot** | AI assistant for smart info retrieval (dark theme) |
+| 🎮 **2D Catch Game** | Multiplayer 2D game with animations & scoring |
+
+<p align="center">
+  <a href="https://github.com/abhijithmr226?tab=repositories">
+    <img src="https://img.shields.io/badge/📂 View All Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🏆 Certifications & Credentials
+
+✔️ **CompTIA Security+ (SY0-601)**  
+✔️ **Cisco Certified Support Technician (CCST)**  
+✔️ **Ethical Hacking Associate – EC-Council**  
+✔️ **ServiceNow IT Leadership Professional**  
+✔️ **Adobe Certified – Photoshop Essentials**
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijithmr226&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithmr226&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijithmr226&bg_color=0d1117&color=58a6ff&line=ff0000&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+## ☕ Support My Work
+
+If my projects help you learn or stay secure, consider supporting 💙
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/abhijithmr226">
+    <img src="https://img.shields.io/badge/☕ Buy Me A Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📫 Let’s Connect & Collaborate
+
+| Platform | Link |
+|--------|------|
+| 🌐 Portfolio | https://www.abhijithmr.me |
+| 🔗 LinkedIn | https://linkedin.com/in/abhijithmr226 |
+| 📧 Email | abhijithmr226@gmail.com |
+
+---
+
+<p align="center">
+  <b>⚔️ Scam Slayer Mode: ON</b><br>
+  <i>Let’s hunt fraud, expose threats, and build a safer internet.</i>
+</p>
+
