@@ -1,104 +1,102 @@
 <!-- ================================================= -->
-<!--           ABHIJITH M.R | CYBERPUNK GITHUB        -->
+<!--      ABHIJITH M.R | CYBERPUNK • SECURITY • DEV   -->
 <!-- ================================================= -->
 
-<h1 align="center">Hey 👋 What's Up?</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Figtree&size=32&duration=2600&pause=700&color=7F3CFF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Abhijith+M.R.;Cybersecurity+%26+Full-Stack+Developer;Secure+Apps+%7C+Automation+%7C+System+Tools;Purple-Black+Cyberpunk+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Build%20Fast.%20Secure%20Harder.&fontColor=7F3CFF&fontSize=24" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhijithmr226&label=Profile%20Views&color=7F3CFF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/abhijithmr226?label=Followers&style=for-the-badge&color=111111" />
+  <img src="https://img.shields.io/github/stars/abhijithmr226?label=Stars&style=for-the-badge&color=222222" />
+</p>
 
 ---
 
-### 🚀 Tech Stack
+## 🧠 About Me
+
+```txt
+👤 Name        : Abhijith M.R.
+🛡️ Role        : Cybersecurity & Full-Stack Developer
+🎯 Focus       : Secure Applications | Automation | Forensics | Recon
+🐧 Systems     : Linux • Networking • Internals
+🌍 Location    : India 🇮🇳
+⚡ Philosophy  : Security isn’t optional — it’s foundational.
+```
+
+---
+
+## 🚀 Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,rust,html,css,bash" height="55" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,flask,nestjs,qt" height="55" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,aws,docker" height="55" />
 </div>
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Metrics
 
-<div align="center">
-  <a href="https://linkeidn.in/abhijithmr226" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://twitter.com/abhijithmr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://discord.com/users/abhijithmr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://twitch.tv/abhijithmr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://dev.to/abhijithmr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://metrics.lecoq.io/abhijithmr226?template=terminal&config.timezone=Asia/Kolkata&languages=1&stars=1&commits=1&lines=1&achievements=1&activity=1&repositories=1" />
+</p>
 
 ---
 
-### 🏆 GitHub Stats
+## 🏆 GitHub Stats & Trophies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijithmr226&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=abhijithmr226&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false" height="150" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijithmr226&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhijithmr226&theme=tokyonight&no-frame=true&column=-1" height="160"/>
+</p>
 
 ---
 
-### 📈 Contribution Graph
+## 🟣 Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijithmr226/abhijithmr226/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhijithmr226/abhijithmr226/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhijithmr226/abhijithmr226/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/abhijithmr226/abhijithmr226/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/abhijithmr226/abhijithmr226/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/abhijithmr226/abhijithmr226/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
 
-### 👨‍💻 Featured Projects
+## 💼 Featured Projects
 
-| Project | Description | Repo Link |
-|---------|-------------|-----------|
-| 🔍 **Universal Log Analyzer** | Advanced log analysis tool for system, USB, and network logs. Security & forensic focused. | [GitHub](https://github.com/abhijithmr226/Universal-Log-Analyzer) |
-| 🐧 **LinuxTaskManager** | GTK3 Linux system monitoring app. Real-time process & network monitoring. | [GitHub](https://github.com/abhijithmr226/LinuxTaskManager) |
-| 🔐 **Passmatic** | Client-side password generator. Runs fully in-browser. Strong entropy & privacy focused. | [GitHub](https://github.com/abhijithmr226/Passmatic) |
-| 🔒 **Secure Encrypter & Decrypter** | Browser-based encryption & decryption tool. Fully client-side & TypeScript powered. | [GitHub](https://github.com/abhijithmr226/Secure-Encrypter-Decrypter) |
-| 🧮 **Easy-Calc** | Minimalist cyberpunk UI web calculator. Mobile-friendly & fast. | [GitHub](https://github.com/abhijithmr226/Easy-Calc) |
-| 🕵️ **ReconX** | Automated reconnaissance tool for penetration testers. Modular & extendable. | [GitHub](https://github.com/abhijithmr226/ReconX) |
+| 🧩 Project | 🔍 Description |
+|----------|---------------|
+| 🔍 Universal Log Analyzer | System, USB & network log analysis |
+| 🐧 LinuxTaskManager | GTK3 Linux system monitor |
+| 🔐 Passmatic | Client-side password generator |
+| 🔒 Secure Encrypter & Decrypter | Browser-based encryption tool |
+| 🧮 Easy-Calc | Cyberpunk calculator |
+| 🕵️ ReconX | Recon automation toolkit |
 
 ---
 
-### 💡 Philosophy
+## 🤝 Connect With Me
 
-> “Security isn’t an add-on; it’s the foundation.”  
-> Every project I build follows:  
-> 🔐 Secure-by-design | ⚡ Performance-first | 🎨 Clean cyberpunk aesthetics
+<p align="center">
+  <a href="https://abhijithmr.me"><img src="https://img.shields.io/badge/Portfolio-7F3CFF?style=for-the-badge" /></a>
+  <a href="https://linkeidn.in/abhijithmr226"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:abhijithmr226@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/abhijithmr226"><img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijithmr226/abhijithmr226/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhijithmr226/abhijithmr226/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhijithmr226/abhijithmr226/output/pacman-contribution-graph.svg">
-</picture>
-
-###</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3CFF&height=130&section=footer"/>
+</p>
