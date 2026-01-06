@@ -6,8 +6,6 @@
   <img src="https://i.ibb.co/Z6VMJLzb/coollogo-com-25241234.png" width="420" />
 </p>
 
-<h1 align="center">Welcome to My GitHub Repo 👋</h1>
-
 <p align="center">
   <b>Cybersecurity Enthusiast • Developer • Open Source Contributor</b>
 </p>
