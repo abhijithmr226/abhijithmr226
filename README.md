@@ -95,5 +95,10 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3CFF&height=120&section=footer"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijithmr226/abhijithmr226/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhijithmr226/abhijithmr226/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abhijithmr226/abhijithmr226/output/pacman-contribution-graph.svg">
+</picture>
+
+###</p>
