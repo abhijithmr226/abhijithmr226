@@ -52,35 +52,6 @@
 </p>
 
 ---
-
-## 🚀 Major Projects
-
-
-
-### 🔍 Universal Log Analyzer
-> Multi-source log analysis for **system, network & USB logs**  
-**Tech:** Python, Flask, Security Parsing  
-
-### 🐧 Linux Task Manager
-> GTK-based Linux system monitor with real-time process tracking  
-**Tech:** GTK3, Python  
-
-### 🔐 Passmatic
-> Secure password generator web application  
-**Tech:** HTML, CSS, JavaScript  
-
-### 💬 Omegle Chat Plus
-> Anonymous chat app with filters & emojis  
-**Tech:** Flutter, WebRTC  
-
----
-
-## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
----
-
 ## ☕ Buy Me a Coffee
 
 <p align="center">
