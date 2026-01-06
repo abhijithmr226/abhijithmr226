@@ -26,8 +26,6 @@
   <img src="https://camo.githubusercontent.com/fd9732eec3a5ddc179eab621999e7f5917556d1ce5d131a4c9c1527e2c59d9c9/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d32322670617573653d3130303026636f6c6f723d3941413642322677696474683d363030266c696e65733d486176652b612b70726f6a6563742533462b4e6565642b612b6465762533462b4c657427732b74616c6b2e3b49276d2b6a7573742b616e2b656d61696c2b617761792e2e2e3b4f722b636f6e6e6563742b6f6e2b796f75722b6661766f726974652b706c6174666f726d2e" />
 </p>
 
----
-
 ## 🧠 About Myself
 
 - 🔐 Cybersecurity student passionate about **penetration testing & digital forensics**
@@ -35,8 +33,6 @@
 - 🚀 Building **real-world security tools and automation projects**
 - 🌱 Learning **advanced exploitation, cloud & system internals**
 - 🧪 Experimenting with **Flask, Node.js, MongoDB & low-level tools**
-
----
 
 ## 🛠️ Skills & Technologies
 
@@ -51,7 +47,6 @@
   <img src="https://img.shields.io/badge/Cybersecurity-8A2BE2?style=for-the-badge"/>
 </p>
 
----
 ## ☕ Buy Me a Coffee
 
 <p align="center">
@@ -59,8 +54,6 @@
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-support-yellow?style=for-the-badge&logo=buy-me-a-coffee"/>
   </a>
 </p>
-
----
 
 <p align="center">
   <i>"Build secure. Think smart. Break ethically."</i> 🔐
